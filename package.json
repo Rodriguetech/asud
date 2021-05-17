@@ -1,0 +1,24 @@
+{
+  "name": "asud",
+  "version": "1.0.0",
+  "description": "asud website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "live" : "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rodriguetech/asud.git"
+  },
+  "author": "Rodrigue et Van",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rodriguetech/asud/issues"
+  },
+  "homepage": "https://github.com/Rodriguetech/asud#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.1",
+    "live-server": "^1.2.1"
+  }
+}
